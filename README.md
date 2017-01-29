@@ -8,7 +8,7 @@ to be a full chloropleth with the colors indicating number of tested students. T
 were created by me using [shape files](https://www.census.gov/did/www/schooldistricts/) provided by the United States Census Bureau.
 [The Center for Assessment](https://github.com/CenterForAssessment) makes these
 [state and national school district topoJSON files](https://github.com/CenterForAssessment/SGPspatialData) available
-for anyone to use in their own development.
+for anyone to use in their own development. Enjoy!
 
 ## Results
 
